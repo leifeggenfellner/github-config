@@ -1,6 +1,6 @@
 [user]
 	name = leifeggenfellner
-	email = eggenfellner@protonmail.com
+	email = example@example.com
 [alias]
 	p = push
 	st = status -sb
